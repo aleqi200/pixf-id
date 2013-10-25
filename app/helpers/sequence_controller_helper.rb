@@ -1,0 +1,2 @@
+module SequenceControllerHelper
+end
